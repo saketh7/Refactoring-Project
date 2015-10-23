@@ -29,6 +29,7 @@ import de.mbi.goldenhasweg.view.game.GameMenuItem;
 import de.mbi.goldenhasweg.view.game.SelectionMode;
 
 /**
+ * Absract Game Menu Class
  * Base class of all menus.
  * 
  * @author El_Matzos
