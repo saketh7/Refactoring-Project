@@ -29,7 +29,7 @@ import de.mbi.goldenhasweg.view.game.GameMenuItem;
 import de.mbi.goldenhasweg.view.game.SelectionMode;
 
 /**
- * Absract Game Menu Class
+ * Absract Game Menu Class jeevan
  * Base class of all menus.
  * 
  * @author El_Matzos
